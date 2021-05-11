@@ -13,7 +13,7 @@ setup(
     version='0.1',
     description='Analisis y visualizacion de datos',
     install_requires=[
-        'requests'
+        'requests',
         'numpy',
         'pandas',
         'matplotlib',
