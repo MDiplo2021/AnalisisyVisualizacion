@@ -51,7 +51,7 @@ Usar el dataset:
 
 Consignas
 -----------
- * [notebook](notebooks/consigas.ipynb)
+ * [notebook](notebooks/consignas.ipynb)
 -------------------------------------------------------------------------------
 Instalación
 -----------
